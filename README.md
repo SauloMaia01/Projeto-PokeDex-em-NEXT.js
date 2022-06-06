@@ -1,1 +1,0 @@
-# Projeto-PokeDex-em-NEXT.js
