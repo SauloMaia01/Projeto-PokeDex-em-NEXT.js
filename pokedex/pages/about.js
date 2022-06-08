@@ -13,12 +13,7 @@ export default function About() {
                 width="300" 
                 height="300" 
                 alt="Charizard"
-                /> 
-            <li className={styles.li}>
-                <Link href="/">
-                    <a>Voltar</a>
-                </Link>
-            </li>            
+                />                     
         </div>
     ]
 }
